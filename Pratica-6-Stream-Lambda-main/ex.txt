@@ -1,0 +1,9 @@
+PRÁTICA 6 - STREAM/LAMBDA
+
+Supondo que uma empresa receba comentários de seus produtos e gostaria de enviar um e-mail marketing para tornar pública sua nova campanha dos seus produtos ou serviços disponíveis.
+ 
+A sua empresa possui uma API que retorna um array com vários objetos de usuários que fizeram comentários em sua página.
+ 
+https://jsonplaceholder.typicode.com/
+ 
+https://jsonplaceholder.typicode.com/comments utilize Gson e lambda no java
